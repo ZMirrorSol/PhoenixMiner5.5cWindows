@@ -1,0 +1,1 @@
+PhoenixMiner.exe -pool eu.cruxpool.com:5555 -wal 0xc18bfa7247Eeb54E3e975A00BCFc9837D68ABd0D -worker ZMirror -ttli 65
